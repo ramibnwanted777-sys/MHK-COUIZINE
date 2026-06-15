@@ -1,0 +1,6 @@
+{
+  "name": "MHK CUIZIN",
+  "description": "Premium luxury bespoke kitchen design, modern cabinetry, 3D interactive layout constructor, and booking showroom in Sétif, Algeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
